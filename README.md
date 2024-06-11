@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Wanhao Ma from Xidian University.
-- 🌱 I’m currently learning Deep Learning Video Coding.
+- 🌱 I’m currently learning Point Cloud Processing.
 - 📫 How to reach me: rolfma@163.com
 <!--
 **rolfma19/rolfma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
