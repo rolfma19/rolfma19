@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Wanhao Ma from Xidian University.
 - 🌱 I’m currently learning Point Cloud Processing/Coding.
-- 📫 How to reach me: rolfma@163.com
+- 📫 How to reach me: whma24@stu.xidian.edu.com
 <!--
 **rolfma19/rolfma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
